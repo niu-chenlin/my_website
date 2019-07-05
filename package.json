@@ -21,7 +21,9 @@
   "homepage": "https://github.com/niu-chenlin/my_website#readme",
   "dependencies": {
     "@types/express": "^4.17.0",
-    "express": "^4.17.1"
+    "connect": "^3.7.0",
+    "express": "^4.17.1",
+    "express-favicon": "^2.0.1"
   },
   "devDependencies": {
     "ejs": "^2.6.2",
